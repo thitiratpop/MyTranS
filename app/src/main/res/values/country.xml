@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Target_arrays">
+        <item>Choose</item>
+        <item>Thai</item>
+        <item>English</item>
+        <item>Lao</item>
+        <item>Korean</item>
+        <item>Arabic</item>
+        <item>Hindi</item>
+        <item>Chinese</item>
+        <item>Japanese</item>
+    </string-array>
+</resources>
