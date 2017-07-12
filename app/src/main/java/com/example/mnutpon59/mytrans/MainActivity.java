@@ -68,15 +68,7 @@ public class MainActivity extends AppCompatActivity {
                 if( country.equals("Arabic")) {
                     targetLanguage = "ar";
                 }
-                if( country.equals("Hindi")) {
-                    targetLanguage = "hi";
-                }
-                if( country.equals("Chinese (Simplified)")) {
-                    targetLanguage = "zh-CN";
-                }
-                if( country.equals("Japanese")) {
-                    targetLanguage = "ja";
-                }
+
             }
             public void onNothingSelected(AdapterView<?> parent)
             {

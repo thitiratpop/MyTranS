@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/colorPrimaryDark"
+    android:background="@color/colortr"
     tools:context="com.example.mnutpon59.mytrans.Activity_Aplash_Screen">
 
     <com.wang.avi.AVLoadingIndicatorView
